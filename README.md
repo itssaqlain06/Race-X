@@ -24,14 +24,18 @@ Get the latest APK version of **Race X** and start your stunt racing adventure n
 - 💡 **C# Programming** - For smooth gameplay mechanics
 - 🎨 **Blender & Photoshop** - High-quality assets and textures
 
+## 🔖 License
+This game is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.  
+You are **free to download and play** the game, but you **cannot modify, sell, or redistribute it for commercial purposes**.
+
+📜 Read the full license here: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## 📣 Stay Updated
 Follow the development and future updates:  
 🔗 [GitHub Repository](https://github.com/itssaqlain06/Race-X)  
 
 ## 🏁 Join the Race!
 Download **Race X** today and experience the ultimate stunt racing challenge! 🚗💨
-
-[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 ⭐ If you like the game, don't forget to **star** this repo and share your feedback!
