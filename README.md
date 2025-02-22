@@ -31,5 +31,7 @@ Follow the development and future updates:
 ## 🏁 Join the Race!
 Download **Race X** today and experience the ultimate stunt racing challenge! 🚗💨
 
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ---
 ⭐ If you like the game, don't forget to **star** this repo and share your feedback!
